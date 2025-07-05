@@ -25,5 +25,6 @@ This project uses advanced AI models like XGBoost, Random Forest, and Neural Net
 
 Install using:
 pip install -r requirements.txt
+
 💡 How to Run
 streamlit run app1.py
